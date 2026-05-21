@@ -20,24 +20,7 @@ The pipeline is **fully parameterized and dynamic** — no hardcoded values, no 
 
 > ⚡ Built for interview preparation and real-world skill demonstration in 2026.
 
----
 
-## ⚠️ Important — Databricks Terminology Updated in 2026
-
-> This project uses the **latest Databricks UI and product names as of early 2026**.
-> If you are following older tutorials, be aware of these rebranding changes:
-
-| Old Name (2024 and before) | New Name (2026) | Where to find it |
-|---------------------------|-----------------|-----------------|
-| Delta Live Tables (DLT) | Lakeflow Spark Declarative Pipelines (SDP) | Jobs & Pipelines → ETL pipeline |
-| Databricks Workflows | Jobs & Pipelines | Left sidebar |
-| Workflow | Job | Jobs & Pipelines tab |
-| DLT Pipeline | ETL Pipeline | Jobs & Pipelines → Create new |
-| Delta Live Tables tab | Gone — merged into Jobs & Pipelines | Jobs & Pipelines → Pipelines filter |
-
-> The `import dlt` syntax and `@dlt.table` decorators still work — **no code changes needed**. Only the UI and product names changed.
-
----
 
 ## 🏗️ Architecture
 
