@@ -411,9 +411,9 @@ def gold_netflix_titles():
 
 | Video | Description |
 |-------|-------------|
-| [ADF Live Run](videos/adf_live_pipeline_run.mp4) | ADF pipeline triggered manually — green ticks appearing in real time |
-| [Lakeflow Lineage Graph](videos/dlt_lineage_graph_zoom.mp4) | ETL pipeline lineage from staging → view → gold table |
-| [Netflix Data Query](videos/sql_netflix_data_query.mp4) | Live SQL query on gold tables showing actual Netflix data |
+| [ADF Live Run](videos/1.mp4) | ADF pipeline triggered manually — green ticks appearing in real time |
+| [Lakeflow Lineage Graph](videos/2.mp4) | ETL pipeline lineage from staging → view → gold table |
+| [Netflix Data Query](videos/3.mp4) | Live SQL query on gold tables showing actual Netflix data |
 
 ---
 
